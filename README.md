@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BBStoat
 - 👀 I’m interested in Frontend Developing
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me BBStoat@gmail.com
 
 <!---
 BBStoat/BBStoat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
